@@ -10,4 +10,4 @@ The analysis requires the following steps:
 
 1. Run "model_Runs.R"
 2. Run "DSVM_Runs.R" (this is an updated DSVM run)
-3. Run "model_eval.R.
+3. Run "model_eval.R".
